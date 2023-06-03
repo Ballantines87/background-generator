@@ -24,3 +24,15 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+button {
+    padding: 25px;
+    cursor: pointer;
+    color: blue;
+
+}
+
+button:hover {
+    border: 2px solid yellow;
+    background-color: yellow;
+}
